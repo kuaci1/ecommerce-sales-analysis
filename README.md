@@ -1,10 +1,5 @@
 # 🛒 E-Commerce Sales Analysis & Business Insights
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
-![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ## 📌 Gambaran Proyek
 Proyek ini bertujuan untuk menganalisis dataset transaksi ritel online multinasional (UK-based) untuk periode satu tahun. Fokus utama analisis adalah mengidentifikasi **pola penjualan musiman**, **produk berkinerja tinggi**, dan **potensi pasar internasional** untuk memberikan rekomendasi strategis bagi manajemen.
 
