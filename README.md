@@ -28,26 +28,16 @@ Data mentah mengandung banyak *noise*. Langkah pembersihan yang dilakukan melipu
 
 ### 1. Tren Musiman (Seasonality)
 > **Insight:** Penjualan stabil di Q1-Q3, namun mengalami lonjakan ekstrem mulai bulan **September** dan memuncak di **November** (Persiapan Natal/Tahun Baru).
->
 > **Rekomendasi:** Inventaris gudang harus ditingkatkan minimal 30-40% pada bulan Agustus untuk mencegah *stockout* di Q4.
 
 ### 2. Produk Terlaris
 > **Insight:** Produk *"White Hanging Heart T-Light Holder"* adalah item dengan frekuensi transaksi tertinggi (>2000 transaksi). Ini adalah "Traffic Generator".
->
 > **Rekomendasi:** Gunakan produk ini sebagai *Loss Leader* dalam kampanye iklan untuk menarik pelanggan baru.
 
 ### 3. Pasar Internasional
 > **Insight:** Di luar Inggris (UK), pasar terbesar adalah **Belanda (Netherlands)** dan **Eire (Irlandia)**, diikuti oleh Jerman dan Prancis.
 >
 > **Rekomendasi:** Pertimbangkan untuk membangun gudang distribusi mini atau kerjasama logistik khusus di Belanda untuk menekan biaya pengiriman internasional.
-
-## 📈 Visualisasi
-
-*(Anda bisa memasukkan screenshot grafik yang tadi kita buat di sini)*
-
-| Tren Bulanan | Top Produk |
-| :---: | :---: |
-| ![Monthly Trend](path/to/your/trend_image.png) | ![Top Products](path/to/your/product_image.png) |
 
 ## 🚀 Cara Menjalankan Project
 1. Clone repositori ini:
