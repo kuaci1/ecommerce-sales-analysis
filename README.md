@@ -39,7 +39,3 @@ Data mentah mengandung banyak *noise*. Langkah pembersihan yang dilakukan melipu
 >
 > **Rekomendasi:** Pertimbangkan untuk membangun gudang distribusi mini atau kerjasama logistik khusus di Belanda untuk menekan biaya pengiriman internasional.
 
-## 🚀 Cara Menjalankan Project
-1. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/username-anda/ecommerce-sales-analysis.git](https://github.com/username-anda/ecommerce-sales-analysis.git)
